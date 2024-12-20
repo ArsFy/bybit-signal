@@ -1,0 +1,8 @@
+{
+    "port": 3000,
+    "buy_only": true,
+    "token": "boom",
+    "api_key": "xxxx",
+    "api_secret": "xxxx",
+    "demo": true
+}
